@@ -1,5 +1,5 @@
 ### Editor
-- Clion
+- Visual Studio Code
 
 ### C++ Version
 - 20
